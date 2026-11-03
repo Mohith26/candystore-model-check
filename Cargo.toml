@@ -1,0 +1,11 @@
+[package]
+name = "candystore-model-check"
+version = "0.1.0"
+edition = "2024"
+publish = false
+
+[dependencies]
+candystore = "=1.2.2"
+
+[dev-dependencies]
+tempfile = "3"
